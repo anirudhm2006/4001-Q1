@@ -1,0 +1,8 @@
+Algorithm:
+
+1. create a message queue in process p1 and send a string starting from 'm'
+
+2. in the p2 process, create a message queue, and receive the message sent from p1
+
+3. find the length of the string which is sent 
+
